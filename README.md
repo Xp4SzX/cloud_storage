@@ -1,16 +1,5 @@
 # cloud_storage
 
-A new Flutter project.
 
-## Getting Started
+<img width="1073" height="614" alt="image" src="https://github.com/user-attachments/assets/5ccbac4b-4fac-4dae-872b-5282f947b0d2" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
