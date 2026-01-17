@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "586962012567",
+    "project_id": "elearning12-8e8f2",
+    "storage_bucket": "elearning12-8e8f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586962012567:android:984349158ae86ef60a5cd2",
+        "android_client_info": {
+          "package_name": "com.example.cloud_storage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJ6K0iHp6TD8wnRpJNPBBdL5HCOz2eaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586962012567:android:34cab98faf06938e0a5cd2",
+        "android_client_info": {
+          "package_name": "com.example.elearning12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJ6K0iHp6TD8wnRpJNPBBdL5HCOz2eaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
